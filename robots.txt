@@ -1,0 +1,7 @@
+# Aextil Federal
+# Everything here is public. Nothing is disallowed — including /assets/, which holds the favicon
+# and the organization logo referenced by the structured data on the homepage.
+User-agent: *
+Disallow:
+
+Sitemap: https://aextilfederal.com/sitemap.xml
