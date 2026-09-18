@@ -1,6 +1,6 @@
 {
   "_note": "Every public binary asset and the workspace it was captured from. A guard reads this because a name rendered into pixels cannot be found by searching text. The build copies this file into the published directory beside the assets it describes.",
-  "captured_at": "2026-09-17",
+  "captured_at": "2026-09-18",
   "captured_by": "scripts/capture-marketing-shots.mjs and scripts/capture-film-plates.mjs cut every still and every film plate from the running application; scripts/render-film.mjs composites the plates over a branded canvas one frame at a time; scripts/build-film-audio.mjs synthesises the score. Nothing here was recorded off a screen by hand. RECAPTURED 2026-09-17 against a demonstration workspace whose project customers are invented too: they previously named real federal organisations — a squadron, two Corps districts, a NAVFAC command and a VA health care system — beside invented contract values, and the walkthrough showed one of them full size for ten seconds. scripts/build-og-card.mjs composes the social card from brandWordmark() and the theme tokens; nothing in it is photographed.",
   "viewport": "1440x900 at 2x (2880x1800) for every still, so the set reads as one product; the walkthrough is recorded at 1440x900 and the hero loop is scaled from it to 1200x750",
   "assets": [
@@ -150,6 +150,32 @@
       "contacts": "none shown",
       "note": "Composed in HTML from brandWordmark() and themeTokens() and photographed at exactly 1200x630 at 1x, because the <head> declares those dimensions and a mismatch makes a preview crop.",
       "origin": "brand"
+    },
+    {
+      "path": "assets/aextil-federal-film.mp4",
+      "screen": "The product film, 92.833333s at 1920x1080, 30fps, with a spoken narration. Five stages: learning the company, comparing new opportunities against it, preparing a draft and asking the team what the records cannot answer, the team reviewing and approving and sending, and the follow-up with a suggested preference update nobody has to accept.",
+      "origin": "rendered",
+      "rendered_by": "scripts/build-film2.mjs writes packages/marketing/film/film2.html; scripts/render-film.mjs photographs it frame by frame. Nothing in it is a screenshot of a workspace — every frame is markup this repository renders, and the only image the page loads is the brand lockup.",
+      "data_from": "packages/marketing/film/learning-demo-fixture.json for the learning suggestion, run through the real learner at build time rather than typed into the animation; every company, project, pursuit and notice is invented and committed in scripts/build-film2.mjs. Notice identifiers are ZZ-DEMO- prefixed so none can be read as a real solicitation.",
+      "captured_from_workspace": "none — nothing was captured. No workspace, live or demonstration, was opened to make this.",
+      "company": "Invented throughout. No company name, UEI, CAGE or contact appears in any frame.",
+      "notices": "Sixteen invented notices, ZZ-DEMO-0231 through ZZ-DEMO-0382. Unlike the withdrawn 68-second film, these are NOT real SAM.gov records — they are made up.",
+      "contacts": "one, deliberately: the business address published on the site's own Contact page, shown on the end card. It is not spelled out here — a manifest is scanned for contact details, and the one place that owns this address is CONTACT_EMAIL in packages/marketing/config.mjs.",
+      "audio": "a spoken narration, 187 approved words, synthesised with a commercially licensed stock voice (ElevenLabs, voice nPczCjzI2devNBz1zQrb). No recording of any person, and nothing sampled.",
+      "narration": "printed on screen and published again as assets/aextil-federal-film.vtt, cut from the same cue list",
+      "approved": "2026-09-18 by the operator, by digest: sha256 cf73d861afce500e9156c928133b957e4cc9763ad8a295a24dbdb406700002fd"
+    },
+    {
+      "path": "assets/aextil-federal-film-poster.jpg",
+      "screen": "The film's poster frame — one notice pulled out of sixteen with what fits and what may be a problem named on it.",
+      "origin": "rendered",
+      "rendered_by": "ffmpeg, one frame read out of assets/aextil-federal-film.mp4 at 39.000s. Reading a frame does not alter the film; its digest is unchanged.",
+      "data_from": "the same invented fixture as the film — see the entry above",
+      "captured_from_workspace": "none — nothing was captured",
+      "company": "none shown",
+      "notices": "invented, ZZ-DEMO- prefixed",
+      "contacts": "none shown",
+      "note": "Chosen at a second with no caption on screen, so the still does not show half a sentence."
     }
   ],
   "retired_2026_09_15": [
