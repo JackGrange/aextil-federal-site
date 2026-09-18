@@ -1,11 +1,11 @@
 {
   "schema": "aextil/marketing-release@1",
-  "commit": "092424117a92614386c7fe3c605072940c55d9ba",
-  "built_at": "2026-09-18T06:58:20.663Z",
+  "commit": "586b9e91ee82491dece13caf78754a88c3f717a4",
+  "built_at": "2026-09-18T16:44:34.935Z",
   "origin": "https://aextilfederal.com",
   "files": {
     ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "404.html": "a501adb8e3275fbceb5d7c54abc0c0900308d7001a7461dcf18c7477298bff2e",
+    "404.html": "955526e5d159189f942e69c837e07c41043165dd9dd80a677d081a9f1704199c",
     "CNAME": "8d25c5a435581c10aac2e7b7ea19c7b12fae437c0c26738a25326a67deb25d05",
     "README.md": "ad3086d2931086c3060c1631e04b4b44803df711afcac29584447c2846696b6b",
     "asset-provenance.json": "040e0f5f66604a6154433821d56f3f8522124b15f828c2ea3280b82d07e79709",
@@ -23,17 +23,17 @@
     "assets/shot-response.png": "22e2ffb7efdfe3241572d3ea90423666227b24ee9e5459c3c50d3d909bea62c5",
     "assets/shot-today.png": "355812136d69f0221793ed89fbc84c04e4197340074789467ba1ec01c133e990",
     "assets/walkthrough.mp4": "d51af8d94730cfb836ff0d7994cac62b59008028e10f9b7e9f42b3c1160ebeb0",
-    "contact.html": "6331cfb497ace8eee5933900d77e09b14235ef883b1f9f6ba445ea09dd237597",
+    "contact.html": "5ba376eea797ac0a59e2ed3e8468322dfdb79d1804f6c33099b897ada41eecf9",
     "favicon.svg": "c23a99570c8df15724b7a22a2cb190b169bffcc7c2cabe6593a1cec563ef8128",
-    "howitworks.html": "5730a7237870e097e464632ba47f5a64ae28a91b43a82f6cb4aa3affde3e75e8",
-    "index.html": "8147cfc3469fb64268ed894d6fca0676dfb188b1f4ee5773a0e14a6568f2c18e",
-    "pricing.html": "d8ea5fad1bac12e5cfba77567d19778aa488eb712b906189d8190280b991a33a",
-    "privacy.html": "0c59d000f13be1271230464378ffd0a32cf36e577abbbe7c9f80c6b3cd9abab1",
-    "product.html": "544fe743cfb7031464352a99611a7c290f9af129028dfea07cd085a25c81f9dd",
-    "refunds.html": "7a3db0b9e58bdb62e6a258279959a27b941260cb8417d0cd15f644a41c88030a",
+    "howitworks.html": "1093da8caba80309737ab7dfc61d841740acda1e56570fdcb10276e6165ac960",
+    "index.html": "0807348db9d85252d0f325d5ba31e3e3670074f92ecf2e678227278bb125f631",
+    "pricing.html": "0059bfcd937f67c59fc30537fc9a5c523436caf745d3cabf237fd61a9aec42b4",
+    "privacy.html": "9166cc62d9fe3970d6c22e78f1430765b0e56a365a2a1d162f33cba915c7e3fb",
+    "product.html": "6dd45aea4235a6bc0de257afbc14b8fb9a2de94f1ca27e8db17b43155542c520",
+    "refunds.html": "b944cbd2c1016327a6fcaed153694c82071d5b932e9f297af2c6b6cc159c0ef2",
     "robots.txt": "76e9a00ec345ac64ef97d9bef5e6aa57c61fab75e80aade53ed187f14d600272",
     "sitemap.xml": "25c2945326209e4b00092e454100b63003342c17766a63edf4ddf0d90e4c9541",
-    "terms.html": "2a582be7d8b9cdd5225620e4b0e381e1e3373ff1ae2f9a91e7a1edcc5a6fdd90"
+    "terms.html": "bee5bfc2c7695908dfd295c7880f7ae43550cfcbfab805121f409e163ec60948"
   },
-  "digest": "1f1f414dbcb9dbfdebae4d0e26017f81c0e746df8f1d594d03335cd22e965698"
+  "digest": "9c3ce6a2eb7a75f7e753094637a133e4485fa051ae937e5f51a38d1b0ef790b0"
 }
