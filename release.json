@@ -1,7 +1,7 @@
 {
   "schema": "aextil/marketing-release@1",
-  "commit": "267fc5d8133327312e5058e2426d2970065aff99",
-  "built_at": "2026-10-06T15:46:11.152Z",
+  "commit": "1e11eda28d15c34ebf4e4122c0744adeb20a2ee9",
+  "built_at": "2026-10-16T18:07:33.191Z",
   "origin": "https://aextilfederal.com",
   "permanent": [
     {
@@ -15,7 +15,7 @@
   ],
   "files": {
     ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "404.html": "820e2bb3dc862eddd09c0db2c185891c8bff551b0d98e15a762e6b4c18cbdb12",
+    "404.html": "ad64ccda27d8e816826673d81cfd5f24cf02a89bf825ca932449e99165659d74",
     "CNAME": "8d25c5a435581c10aac2e7b7ea19c7b12fae437c0c26738a25326a67deb25d05",
     "README.md": "ad3086d2931086c3060c1631e04b4b44803df711afcac29584447c2846696b6b",
     "asset-provenance.json": "7e9f5627e18d8b7e0a0e598747c2a6f071e3c816d7c3e449be6805664a9c73a6",
@@ -33,19 +33,19 @@
     "assets/shot-response.png": "e23a3365c7ce4449d08205cfd880333011a321d7cdbcf24bd6a761c4f17599e9",
     "assets/shot-today.png": "0df10d7528dcfd864a505097772db2b95c4a631594de05abcc3dd5752ef8538c",
     "assets/walkthrough.mp4": "d7cf6c3332f5eb6ad3f3fb91cea59e0abb64366a61b4221ed3fd599a112e3e57",
-    "contact.html": "7dac4479de8c48f89e844e8e329ac7573de75dd6724cbad5b1075a3f170e92bb",
+    "contact.html": "cec84b0c7f9d0b2e969f1941dc9b56d50882a00e8e38a30849e9a4b046bdc6ae",
     "favicon.svg": "c23a99570c8df15724b7a22a2cb190b169bffcc7c2cabe6593a1cec563ef8128",
-    "howitworks.html": "9ce58c02799abb01ec6ba89b07fd6e12c45c0fcea20203bbc8451d51edde9a74",
-    "index.html": "6a7682a6a25fae68863a572a213dfdae5c611854946e63a3737c73e7c9993e6c",
-    "pricing.html": "46a3c4326229c61cb93164d260627edffcc7d9c4b17640b8f8c4d9a715ed3225",
-    "privacy.html": "cfc00e4bbae7cae8f50bb2d5cc97b1dd52f0198c729f2d78cff9a568ed506474",
-    "product.html": "89e199443891dfad975dadcb0433fc0ecc9656eb4ca727f5d2f3999e90395d87",
-    "refunds.html": "9da06f42bc6e3c5b9ce2675a91dd8a7aa7ec583f8b27f7b8494e0018f9978c6b",
+    "howitworks.html": "25d588e1e21ad8a8e2a41377ba9af47406216a1e25f4f2e31a9235194d32467c",
+    "index.html": "77161316981aaec8a58f5566ea226a17d2d193976a72d9f0ba1ca263da8c32f4",
+    "pricing.html": "51f732adfb1618bb7a454294783abcfb71b0495c343994797d3dc95bcc16d5fa",
+    "privacy.html": "cd114b05f5f08be3af89f3d10dc922e7fbc81638885cfab32abdd3b8911c5fc6",
+    "product.html": "5c669c5ae89027427695fde8470aaee4f53a048e78c4dc7462add25a25b13c27",
+    "refunds.html": "a852cd8b8d91e2ebd6581689f005ff1150967b40ee96e6e1a2d2a7e9a9ea49b5",
     "robots.txt": "76e9a00ec345ac64ef97d9bef5e6aa57c61fab75e80aade53ed187f14d600272",
-    "sbc.html": "acdbf4729f7b1d5aab4e402dbe993b79db446b63661a3d9b246163dcdda09cca",
-    "sbc/index.html": "acdbf4729f7b1d5aab4e402dbe993b79db446b63661a3d9b246163dcdda09cca",
-    "sitemap.xml": "0a8a79301b31a68f8ac5ec630b1b4e37b77af4362f793798d2d7a9051ee19239",
-    "terms.html": "17755a4e64eac0c1cefb15b0d68affb60f10399af8ae5e429efd4e865fbed3a4"
+    "sbc.html": "1103c73fa5f4a7b6335796890d9894f77410cbbc5e6d72bca2517ee23b591f00",
+    "sbc/index.html": "1103c73fa5f4a7b6335796890d9894f77410cbbc5e6d72bca2517ee23b591f00",
+    "sitemap.xml": "77c29c9d51697fe73ac3156bcd4570310a11771cb65cc85b8c50e2aa208935c5",
+    "terms.html": "21906775354083e4c78a92075dd1cd3566469215f3b2add6ce9103c854361395"
   },
-  "digest": "9fc68d95edfcc68cad60e5cee7082e2cf72ac104930292752c485e92fdbe5eea"
+  "digest": "773e4579bd5d03bbebf41ce533ebfbd0dd113d1c19d979d8bfc27ee03a5067d6"
 }
