@@ -1,7 +1,7 @@
 {
   "schema": "aextil/marketing-release@1",
-  "commit": "2870c66666b291acb724d80fd97b5dfcbfbbc3d4",
-  "built_at": "2026-10-30T19:58:31.725Z",
+  "commit": "baca28a6453180a326f22a251e2c060e7f4310a9",
+  "built_at": "2026-10-31T03:06:51.409Z",
   "origin": "https://aextilfederal.com",
   "permanent": [
     {
@@ -11,11 +11,18 @@
         "sbc/index.html"
       ],
       "why": "the QR code printed on the SBC business cards"
+    },
+    {
+      "path": "/release-floor.json",
+      "files": [
+        "release-floor.json"
+      ],
+      "why": "the oldest commit this site may be published from (2870c666, 2026-10-30, which withdrew the public starting price); a build from an older commit would restore withdrawn copy"
     }
   ],
   "files": {
     ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "404.html": "c3dddc88df20f1b6595c38584b9cc5492d1ad1fef53c41d6710e9b60a04c7b86",
+    "404.html": "d3e59395754c3e2adbfa64476971837a838093c8369bba25ab9a5dc6c408fb2b",
     "CNAME": "8d25c5a435581c10aac2e7b7ea19c7b12fae437c0c26738a25326a67deb25d05",
     "README.md": "ad3086d2931086c3060c1631e04b4b44803df711afcac29584447c2846696b6b",
     "asset-provenance.json": "7e9f5627e18d8b7e0a0e598747c2a6f071e3c816d7c3e449be6805664a9c73a6",
@@ -33,19 +40,20 @@
     "assets/shot-response.png": "e23a3365c7ce4449d08205cfd880333011a321d7cdbcf24bd6a761c4f17599e9",
     "assets/shot-today.png": "0df10d7528dcfd864a505097772db2b95c4a631594de05abcc3dd5752ef8538c",
     "assets/walkthrough.mp4": "d7cf6c3332f5eb6ad3f3fb91cea59e0abb64366a61b4221ed3fd599a112e3e57",
-    "contact.html": "16f461da44a94ea16ca5df1e0a9d018162012a8386b62f0c265d947f3fded558",
+    "contact.html": "c6b3883333d8bd8924577e207662b01dfe71af51e6d43678fb635d3ca0081833",
     "favicon.svg": "c23a99570c8df15724b7a22a2cb190b169bffcc7c2cabe6593a1cec563ef8128",
-    "howitworks.html": "dd6715ee7e87d962b3940a9eeeadf626c46ab72b27f30d45ce5153ebe63fd14b",
-    "index.html": "412561605735d6f861bf51b4e25ab2bdce2581055a7b58eb57692b5b576e90bf",
-    "pricing.html": "4dfe428467f789bd93b49241be498a1c0e3f18ebf126a735a07beb600291e287",
-    "privacy.html": "3692219c2013bef99d1e0a5f022aa5529173c4d69a99b55ca716c8fe9087fd4d",
-    "product.html": "3d52941d369223d2cb577e0975000164af5ca6539b136a88513a3e9f5764b54e",
-    "refunds.html": "e84d50819f329530277d278b7b5cb9982ca4939b41ca3bbe6d07b0458bff766a",
+    "howitworks.html": "aeae9ffaa310062f6f5b638997f67598637b185778d9af956cedc1a671c80a4f",
+    "index.html": "de4457c5d1aa5e1020cecdb4020e25527004b1f268bc5f4390f2721f1210f171",
+    "pricing.html": "fe7209d685132f1c8ed35c3b66d875f5c6cb02fb13d40cbb274076b473bf552f",
+    "privacy.html": "ec0669cbbb2c7a7c54c09713b5574c42cf260b5fa5ad38c3abb3feb5de835cfa",
+    "product.html": "dce3a9cda34e61bcc7eb3b224d5a3de73b0e8ce282668f362b1aa96cc9e7db69",
+    "refunds.html": "d0afd0200792f900c152cdffb55d676cc9551f20d9599903197f718fe5eedb91",
+    "release-floor.json": "6956887954e98d5d00207fa98698c4446c4384f957ac31f8fdbb819b7b679c09",
     "robots.txt": "76e9a00ec345ac64ef97d9bef5e6aa57c61fab75e80aade53ed187f14d600272",
-    "sbc.html": "7c846bf17fc6228b97eb04563d73887cf9ebee0074af3ea307be1e675a029a51",
-    "sbc/index.html": "7c846bf17fc6228b97eb04563d73887cf9ebee0074af3ea307be1e675a029a51",
+    "sbc.html": "31b18e78c6cf87c257846d6cf263ac8c11220aa9523ac5671ebe20b38c928b69",
+    "sbc/index.html": "31b18e78c6cf87c257846d6cf263ac8c11220aa9523ac5671ebe20b38c928b69",
     "sitemap.xml": "ebd62f70f9985543c1575bba0d42a1a0dc45fe3c31e49c93a5b3ab89c919ea8e",
-    "terms.html": "6f1dcc075fc69f4f6e848c985842c7d51bdff7ac97f07985ce863a7fd36db383"
+    "terms.html": "b344d9fa77aef403f013d206ea7345c36dcefb55328026fd67a515529536c218"
   },
-  "digest": "e9a70b62d7239e7be62b1aab1d2b99554da669ef9138c7c5547af8a91b700682"
+  "digest": "9b1fedf243eb15874e65669d5f915dd6493d472bcac7bcd217b0936fec0f42bb"
 }
