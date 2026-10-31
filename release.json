@@ -1,7 +1,7 @@
 {
   "schema": "aextil/marketing-release@1",
-  "commit": "baca28a6453180a326f22a251e2c060e7f4310a9",
-  "built_at": "2026-10-31T03:10:54.802Z",
+  "commit": "6686f6fe0f1a3decfa511afaa2f450d9fe7e5f2c",
+  "built_at": "2026-10-31T21:02:29.011Z",
   "origin": "https://aextilfederal.com",
   "permanent": [
     {
@@ -17,12 +17,12 @@
       "files": [
         "release-floor.json"
       ],
-      "why": "the oldest commit this site may be published from (2870c666, 2026-10-30, which withdrew the public starting price); a build from an older commit would restore withdrawn copy"
+      "why": "the oldest commit this site may be published from (daf22dc9, 2026-10-31: one offering, no figure; 2870c666 before it withdrew the public starting price); a build from an older commit would restore withdrawn copy"
     }
   ],
   "files": {
     ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "404.html": "d3e59395754c3e2adbfa64476971837a838093c8369bba25ab9a5dc6c408fb2b",
+    "404.html": "81d06d8d31a55f94ce6dfc20abb9f4742bc628dafd233f93b9c28505499a3b44",
     "CNAME": "8d25c5a435581c10aac2e7b7ea19c7b12fae437c0c26738a25326a67deb25d05",
     "README.md": "ad3086d2931086c3060c1631e04b4b44803df711afcac29584447c2846696b6b",
     "asset-provenance.json": "7e9f5627e18d8b7e0a0e598747c2a6f071e3c816d7c3e449be6805664a9c73a6",
@@ -40,20 +40,20 @@
     "assets/shot-response.png": "e23a3365c7ce4449d08205cfd880333011a321d7cdbcf24bd6a761c4f17599e9",
     "assets/shot-today.png": "0df10d7528dcfd864a505097772db2b95c4a631594de05abcc3dd5752ef8538c",
     "assets/walkthrough.mp4": "d7cf6c3332f5eb6ad3f3fb91cea59e0abb64366a61b4221ed3fd599a112e3e57",
-    "contact.html": "c6b3883333d8bd8924577e207662b01dfe71af51e6d43678fb635d3ca0081833",
+    "contact.html": "7619f92d8e9519572b56336f753372cec0a9144aa3d7f32ddaca6a6a32b7aa13",
     "favicon.svg": "c23a99570c8df15724b7a22a2cb190b169bffcc7c2cabe6593a1cec563ef8128",
-    "howitworks.html": "aeae9ffaa310062f6f5b638997f67598637b185778d9af956cedc1a671c80a4f",
-    "index.html": "de4457c5d1aa5e1020cecdb4020e25527004b1f268bc5f4390f2721f1210f171",
-    "pricing.html": "fe7209d685132f1c8ed35c3b66d875f5c6cb02fb13d40cbb274076b473bf552f",
-    "privacy.html": "ec0669cbbb2c7a7c54c09713b5574c42cf260b5fa5ad38c3abb3feb5de835cfa",
-    "product.html": "dce3a9cda34e61bcc7eb3b224d5a3de73b0e8ce282668f362b1aa96cc9e7db69",
-    "refunds.html": "d0afd0200792f900c152cdffb55d676cc9551f20d9599903197f718fe5eedb91",
-    "release-floor.json": "6956887954e98d5d00207fa98698c4446c4384f957ac31f8fdbb819b7b679c09",
+    "howitworks.html": "03f17661c85439acede90d024e0eed5f6a0220aed554df3732e559c1bfeed3fb",
+    "index.html": "4cffcd5a90bb0fc9834a1ef48ae14d1fc597db85b1773c2f5515eb4c4ca0da71",
+    "pricing.html": "f34a253e6f1cffb8fde8f87ff371b226fc4349e5838ee38c5b69f56b232efb31",
+    "privacy.html": "8f804895bbe9868563d54b810c993db1c02b684293e92907f3ce940a0f6d4cf3",
+    "product.html": "1e2a10f5ecf92674dbdb7bfcdf7a5649ee4e3a74139428a34039117dc729d64e",
+    "refunds.html": "b49fd30084959a166b8e5ce2226afd989f567e21295cdcfc526b2fee53b74295",
+    "release-floor.json": "02e52c613db3aab600cdd72de6b7c5a50c2a74c519a4e5c499418f95b956e33a",
     "robots.txt": "76e9a00ec345ac64ef97d9bef5e6aa57c61fab75e80aade53ed187f14d600272",
-    "sbc.html": "31b18e78c6cf87c257846d6cf263ac8c11220aa9523ac5671ebe20b38c928b69",
-    "sbc/index.html": "31b18e78c6cf87c257846d6cf263ac8c11220aa9523ac5671ebe20b38c928b69",
-    "sitemap.xml": "ebd62f70f9985543c1575bba0d42a1a0dc45fe3c31e49c93a5b3ab89c919ea8e",
-    "terms.html": "b344d9fa77aef403f013d206ea7345c36dcefb55328026fd67a515529536c218"
+    "sbc.html": "8841a7c4204796b226e7ca9655259919af6b7463affbafcc1327d19da96110a0",
+    "sbc/index.html": "8841a7c4204796b226e7ca9655259919af6b7463affbafcc1327d19da96110a0",
+    "sitemap.xml": "cf919d6c25ed9909a08f71928e4128428ad8b1a7851c3b9d4694f0866c81ccf9",
+    "terms.html": "7bb50e7673ca4c59f0eac984379f3a3ee846e9c499ec160254a6a4e18b62600b"
   },
-  "digest": "9b1fedf243eb15874e65669d5f915dd6493d472bcac7bcd217b0936fec0f42bb"
+  "digest": "3c26df3674ac742140706320c7e2dff876611a42b03a4ddf38096dd02dfe8333"
 }

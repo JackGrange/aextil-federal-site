@@ -1,6 +1,6 @@
 {
   "schema": "aextil/marketing-release-floor@1",
-  "commit": "2870c66666b291acb724d80fd97b5dfcbfbbc3d4",
-  "since": "2026-10-30",
-  "why": "the oldest commit this site may be published from (2870c666, 2026-10-30, which withdrew the public starting price); a build from an older commit would restore withdrawn copy"
+  "commit": "daf22dc9e739b8ac6a9f2816fd91bf06aaf38a10",
+  "since": "2026-10-31",
+  "why": "the oldest commit this site may be published from (daf22dc9, 2026-10-31: one offering, no figure; 2870c666 before it withdrew the public starting price); a build from an older commit would restore withdrawn copy"
 }
