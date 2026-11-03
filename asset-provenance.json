@@ -176,6 +176,51 @@
       "contacts": "none shown",
       "note": "Composed in HTML around brandLockup() — the OPERATOR APPROVED RASTER from aextil-federal-logo.png (sha256 a2f423e8…), the same artwork the site header and the favicon carry — and photographed at exactly 1200x630 at 1x, because the <head> declares those dimensions and a mismatch makes a preview crop. The filename carries a version token: a messaging app caches a preview by URL and cannot be asked to forget one, so a corrected card only reaches anybody at an address that app has never seen.",
       "origin": "brand"
+    },
+    {
+      "path": "assets/portrait-jack-grange.jpg",
+      "screen": "About page portrait of Jack Grange",
+      "origin": "portrait",
+      "subject": "Jack Grange",
+      "supplied_by": "Jack Grange (operator), About page handoff of 2026-11-03, for publication on aextilfederal.com/about",
+      "processing": "the operator's own photograph (1366x2048 original); published as a 1000px square head-and-shoulders crop scaled to 600px. Resized with macOS sips; no retouching, no generated content, no embedded metadata.",
+      "captured_from_workspace": "none — a photograph of a person, not a capture of any workspace"
+    },
+    {
+      "path": "assets/portrait-jacob-kravitz.jpg",
+      "screen": "About page portrait of Jacob Kravitz",
+      "origin": "portrait",
+      "subject": "Jacob Kravitz",
+      "supplied_by": "Jack Grange (operator), About page handoff of 2026-11-03, for publication on aextilfederal.com/about",
+      "processing": "764px square original, scaled to 600px. Resized with macOS sips; no retouching, no generated content, no embedded metadata.",
+      "captured_from_workspace": "none — a photograph of a person, not a capture of any workspace"
+    },
+    {
+      "path": "assets/portrait-steven-grange.jpg",
+      "screen": "About page portrait of Steven Grange",
+      "origin": "portrait",
+      "subject": "Steven Grange",
+      "supplied_by": "Jack Grange (operator), About page handoff of 2026-11-03, for publication on aextilfederal.com/about",
+      "processing": "391px square original, published unchanged. Resized with macOS sips; no retouching, no generated content, no embedded metadata.",
+      "captured_from_workspace": "none — a photograph of a person, not a capture of any workspace"
+    },
+    {
+      "path": "assets/portrait-brad-kraay.jpg",
+      "screen": "About page portrait of Brad Kraay",
+      "origin": "portrait",
+      "subject": "Brad Kraay",
+      "supplied_by": "Jack Grange (operator), About page handoff of 2026-11-03, for publication on aextilfederal.com/about",
+      "processing": "800px square original, scaled to 480px. Resized with macOS sips; no retouching, no generated content, no embedded metadata.",
+      "captured_from_workspace": "none — a photograph of a person, not a capture of any workspace"
+    },
+    {
+      "path": "assets/portrait-andrew-stoy.jpg",
+      "screen": "About page portrait of Andrew Stoy",
+      "origin": "portrait",
+      "subject": "Andrew Stoy",
+      "supplied_by": "Jack Grange (operator), About page handoff of 2026-11-03, for publication on aextilfederal.com/about",
+      "processing": "560px square original, scaled to 480px. Resized with macOS sips; no retouching, no generated content, no embedded metadata.",
+      "captured_from_workspace": "none — a photograph of a person, not a capture of any workspace"
     }
   ],
   "retired_2026_09_15": [
